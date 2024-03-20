@@ -24,7 +24,6 @@ const Projects = () => {
               controls
               className="w-full h-full object-cover"
               muted
-              loop
               src="https://ik.imagekit.io/ex8j5qixd/crane%20project.mp4?updatedAt=1710845040062"
             ></video>
           </div>
@@ -34,7 +33,6 @@ const Projects = () => {
               className="w-full h-full object-cover"
               controls
               muted
-              loop
               src="https://ik.imagekit.io/ex8j5qixd/crane%20project2.mp4?updatedAt=1710845075770"
             ></video>
           </div>
